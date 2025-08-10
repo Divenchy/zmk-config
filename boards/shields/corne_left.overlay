@@ -1,0 +1,4 @@
+&rgb_underglow {
+  status = "okay";
+  split = <1>;
+};
